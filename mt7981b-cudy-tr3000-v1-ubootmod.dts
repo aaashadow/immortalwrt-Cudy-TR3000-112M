@@ -4,8 +4,8 @@
 #include "mt7981b-cudy-tr3000-v1.dtsi"
 
 / {
-	model = "Cudy TR3000 v1 (OpenWrt U-Boot layout)";
-	compatible = "cudy,tr3000-v1-ubootmod", "mediatek,mt7981";
+	model = "Cudy TR3000 v1";
+	compatible = "cudy,tr3000-v1", "mediatek,mt7981";
 };
 
 &chosen {
